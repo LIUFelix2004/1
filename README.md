@@ -88,3 +88,13 @@ npm run frontend:dev
 ## 安全提醒
 
 当前仓库上下文里出现了一个明文 OpenAI API Key。建议立即旋转并改为放进本地环境变量，不要继续保存在项目说明或版本库中。
+
+<!-- felix-ai-shop:start -->
+
+---
+
+### 🛒 Felix AI 工具小铺
+
+各种低价 AI 工具，稳定直供 → **[felixaitools.shop/](https://felixaitools.shop/)**
+
+<!-- felix-ai-shop:end -->
